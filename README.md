@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @nazarkupchin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nazarkupchin/nazarkupchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 пока я не Better_than_many 
+- 👀 меня ничего не интересует 
+- 🌱 я не учусь 
+- 💞️ не ищу сотрудничество 
+- 📫 со мной никак не связаться
